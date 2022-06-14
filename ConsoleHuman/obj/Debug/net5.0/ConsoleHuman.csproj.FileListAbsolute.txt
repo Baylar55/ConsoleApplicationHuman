@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ConsoleHuman\ConsoleHuman\bin\Debug\net5.0\ConsoleHuman.exe
+C:\Users\user\source\repos\ConsoleHuman\ConsoleHuman\bin\Debug\net5.0\ConsoleHuman.deps.json
+C:\Users\user\source\repos\ConsoleHuman\ConsoleHuman\bin\Debug\net5.0\ConsoleHuman.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleHuman\ConsoleHuman\bin\Debug\net5.0\ConsoleHuman.runtimeconfig.dev.json
+C:\Users\user\source\repos\ConsoleHuman\ConsoleHuman\bin\Debug\net5.0\ConsoleHuman.dll
+C:\Users\user\source\repos\ConsoleHuman\ConsoleHuman\bin\Debug\net5.0\ref\ConsoleHuman.dll
+C:\Users\user\source\repos\ConsoleHuman\ConsoleHuman\bin\Debug\net5.0\ConsoleHuman.pdb
+C:\Users\user\source\repos\ConsoleHuman\ConsoleHuman\obj\Debug\net5.0\ConsoleHuman.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleHuman\ConsoleHuman\obj\Debug\net5.0\ConsoleHuman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ConsoleHuman\ConsoleHuman\obj\Debug\net5.0\ConsoleHuman.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleHuman\ConsoleHuman\obj\Debug\net5.0\ConsoleHuman.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsoleHuman\ConsoleHuman\obj\Debug\net5.0\ConsoleHuman.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleHuman\ConsoleHuman\obj\Debug\net5.0\ConsoleHuman.dll
+C:\Users\user\source\repos\ConsoleHuman\ConsoleHuman\obj\Debug\net5.0\ref\ConsoleHuman.dll
+C:\Users\user\source\repos\ConsoleHuman\ConsoleHuman\obj\Debug\net5.0\ConsoleHuman.pdb
+C:\Users\user\source\repos\ConsoleHuman\ConsoleHuman\obj\Debug\net5.0\ConsoleHuman.genruntimeconfig.cache
